@@ -43,38 +43,147 @@ div{
 .alcalino{
     background: #fb2;
     -webkit-transition-duration: 0.9s;
-}}
+}
 
 .alcalino:hover{
     background: #fb7;
     -webkit-transform:scale(1.2);
 }
 
-#eq1{
-    position: absolute;
-    top: 100px;left: 100px;
-}
 #eq3{
     position: absolute;
-    top: 200px;left: 100px;
+    top: 220px;left: 100px;
 }
 #eq11{
     position: absolute;
-    top: 300px;left: 100px;
+    top: 340px;left: 100px;
 }
 #eq19{
     position: absolute;
-    top: 400px;left: 100px;
+    top: 460px;left: 100px;
 }
 #eq37{
     position: absolute;
-    top: 500px;left: 100px;
+    top: 580px;left: 100px;
 }
 #eq55{
     position: absolute;
-    top: 600px;left: 100px;
+    top: 700px;left: 100px;
 }
 #eq87{
     position: absolute;
-    top: 700px;left: 100px;
+    top: 820px;left: 100px;
+}
+
+.alcalinoterreos{
+    background: #800000;
+    -webkit-transition-duration: 0.9s;
+}
+
+.alcalinoterreos:hover{
+    background: #CF010B;
+    -webkit-transform: scale(1.2);
+}
+#eq4{
+    position: absolute;
+    top: 220px;left: 220px;
+}
+#eq12{
+    position: absolute;
+    top: 340px;left: 220px;
+}
+#eq20{
+    position: absolute;
+    top: 460px;left: 220px;
+}
+#eq38{
+    position: absolute;
+    top: 580px;left: 220px;
+}
+#eq56{
+    position: absolute;
+    top: 700px;left: 220px;
+}
+#eq88{
+    position: absolute;
+    top: 820px;left: 220px;
+}
+
+.transicion{
+    background: #141B47;
+    -webkit-transition-duration: 0.9s;
+}
+
+.transicion:hover{
+    background: #6B85A9;
+    -webkit-transform: scale(1.2);
+}
+#eq21{
+    position: absolute;
+    top: 460px;left: 340px;
+}
+#eq39{
+    position: absolute;
+    top: 580px;left: 340px;
+}
+
+.lantanidos{
+    background: #CB3234;
+    -webkit-transition-duration: 0.9s;
+}
+
+.lantanidos:hover{
+    background: #FF6961;
+    -webkit-transform: scale(1.2);
+}
+#eq57{
+    position: absolute;
+    top: 700px;left: 340px;
+}
+
+.actinidos{
+    background: #FF8000;
+    -webkit-transition-duration: 0.9s;
+}
+
+.actinidos:hover{
+    background: #EC7C26;
+    -webkit-transform: scale(1.2);
+}
+#eq89{
+    position: absolute;
+    top: 820px;left: 340px;
+}
+
+#eq22{
+    position: absolute;
+    top: 460px;left: 460px;
+}
+#eq40{
+    position: absolute;
+    top: 580px;left: 460px;
+}
+#eq72{
+    position: absolute;
+    top: 700px;left: 460px;
+}
+#eq104{
+    position: absolute;
+    top: 820px;left: 460px;
+}
+#eq23{
+    position: absolute;
+    top: 460px;left: 580px;
+}
+#eq41{
+    position: absolute;
+    top: 580px;left: 580px;
+}
+#eq73{
+    position: absolute;
+    top: 700px;left: 580px;
+}
+#eq105{
+    position: absolute;
+    top: 820px;left: 580px;
 }
