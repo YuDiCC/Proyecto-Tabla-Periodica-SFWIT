@@ -422,3 +422,74 @@ div{
     position: absolute;
     top: 820px;left: 1900px;
 }
+.halogenos{
+    background: #109DFA;
+    -webkit-transition-duration: 0.9s;
+}
+
+.halogenos:hover{
+    background: #ABDEE6;
+    -webkit-transform:scale(1.2);
+}
+#eq9{
+    position: absolute;
+    top: 220px;left: 2020px;
+}
+#eq17{
+    position: absolute;
+    top: 340px;left: 2020px;
+}
+#eq35{
+    position: absolute;
+    top: 460px;left: 2020px;
+}
+#eq53{
+    position: absolute;
+    top: 580px;left: 2020px;
+}
+#eq85{
+    position: absolute;
+    top: 700px;left: 2020px;
+}
+#eq117{
+    position: absolute;
+    top: 820px;left: 2020px;
+}
+.nobles{
+    background: #000066;
+    -webkit-transition-duration: 0.9s;
+}
+
+.nobles:hover{
+    background: #003366;
+    -webkit-transform:scale(1.2);
+}
+
+#eq2{
+    position: absolute;
+    top: 100px;left: 2140px;
+}
+#eq10{
+    position: absolute;
+    top: 220px;left: 2140px;
+}
+#eq18{
+    position: absolute;
+    top: 340px;left: 2140px;
+}
+#eq36{
+    position: absolute;
+    top: 460px;left: 2140px;
+}
+#eq54{
+    position: absolute;
+    top: 580px;left: 2140px;
+}
+#eq86{
+    position: absolute;
+    top: 700px;left: 2140px;
+}
+#eq118{
+    position: absolute;
+    top: 820px;left: 2140px;
+}
