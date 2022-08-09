@@ -1,0 +1,80 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.atomico{
+    font-size: 15px;
+    line-height: 0px;
+}
+
+.simbolo{
+    font-size: 25px;
+    line-height: 0px;
+}
+
+.nombre{
+    font-size: 13px;
+    line-height: 0px;
+}
+
+.peso{
+    font-size: 10px;
+    line-height: 0px;
+}
+
+.gas{
+    background: #0cc;
+    -webkit-transition-duration: 0.9s;
+}
+
+.gas:hover{
+    background: #6ff;
+    -webkit-transform: scale(1.2);
+}
+#eq1{
+    position: absolute;
+    top: 100px;left: 100px;
+}
+
+.alcalino{
+    background: #fb2;
+    -webkit-transition-duration: 0.9s;
+}}
+
+.alcalino:hover{
+    background: #fb7;
+    -webkit-transform:scale(1.2);
+}
+
+#eq1{
+    position: absolute;
+    top: 100px;left: 100px;
+}
+#eq3{
+    position: absolute;
+    top: 200px;left: 100px;
+}
+#eq11{
+    position: absolute;
+    top: 300px;left: 100px;
+}
+#eq19{
+    position: absolute;
+    top: 400px;left: 100px;
+}
+#eq37{
+    position: absolute;
+    top: 500px;left: 100px;
+}
+#eq55{
+    position: absolute;
+    top: 600px;left: 100px;
+}
+#eq87{
+    position: absolute;
+    top: 700px;left: 100px;
+}
