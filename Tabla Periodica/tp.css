@@ -5,7 +5,6 @@ div{
     text-align: center;
     border-radius: 5px;
 }
-
 .atomico{
     font-size: 15px;
     line-height: 0px;
@@ -27,12 +26,12 @@ div{
 }
 
 .gas{
-    background: #0cc;
+    background: #65727C;
     -webkit-transition-duration: 0.9s;
 }
 
 .gas:hover{
-    background: #6ff;
+    background: #B5B8B1;
     -webkit-transform: scale(1.2);
 }
 #eq1{
@@ -110,12 +109,12 @@ div{
 }
 
 .transicion{
-    background: #141B47;
+    background: #4931AF;
     -webkit-transition-duration: 0.9s;
 }
 
 .transicion:hover{
-    background: #6B85A9;
+    background: #9B6DC6;
     -webkit-transform: scale(1.2);
 }
 #eq21{
@@ -456,12 +455,12 @@ div{
     top: 820px;left: 2020px;
 }
 .nobles{
-    background: #000066;
+    background: #002392;
     -webkit-transition-duration: 0.9s;
 }
 
 .nobles:hover{
-    background: #003366;
+    background: #6B85A9;
     -webkit-transform:scale(1.2);
 }
 
