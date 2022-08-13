@@ -1,45 +1,55 @@
 div{
-    width: 100px;
-    height: 100px;
-    border: dashed black 2px;
-    text-align: center;
-    border-radius: 5px;
+  width:100%;
+  height:100%;
+  background: #ff0;
+  float:left;
 }
+
 .atomico{
-    font-size: 15px;
+    font-size: 8px;
     line-height: 0px;
 }
 
 .simbolo{
-    font-size: 25px;
-    line-height: 0px;
-}
-
-.nombre{
     font-size: 13px;
     line-height: 0px;
 }
 
+.nombre{
+    font-size: 9px;
+    line-height: 0px;
+}
+
 .peso{
-    font-size: 10px;
+    font-size: 9px;
     line-height: 0px;
 }
 
 .gas{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #65727C;
     -webkit-transition-duration: 0.9s;
 }
 
 .gas:hover{
     background: #B5B8B1;
-    -webkit-transform: scale(1.2);
+    -webkit-transform: scale(1.1);
 }
 #eq1{
     position: absolute;
-    top: 100px;left: 100px;
+    top: 100px;left:20px;
 }
 
 .alcalino{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #fb2;
     -webkit-transition-duration: 0.9s;
 }
@@ -51,30 +61,35 @@ div{
 
 #eq3{
     position: absolute;
-    top: 220px;left: 100px;
+    top: 160px;left: 20px;
 }
 #eq11{
     position: absolute;
-    top: 340px;left: 100px;
+    top: 220px;left: 20px;
 }
 #eq19{
     position: absolute;
-    top: 460px;left: 100px;
+    top: 280px;left: 20px;
 }
 #eq37{
     position: absolute;
-    top: 580px;left: 100px;
+    top: 340px;left: 20px;
 }
 #eq55{
     position: absolute;
-    top: 700px;left: 100px;
+    top: 400px;left: 20px;
 }
 #eq87{
     position: absolute;
-    top: 820px;left: 100px;
+    top: 460px;left: 20px;
 }
 
 .alcalinoterreos{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #800000;
     -webkit-transition-duration: 0.9s;
 }
@@ -85,30 +100,35 @@ div{
 }
 #eq4{
     position: absolute;
-    top: 220px;left: 220px;
+    top: 160px;left: 80px;
 }
 #eq12{
     position: absolute;
-    top: 340px;left: 220px;
+    top: 220px;left: 80px;
 }
 #eq20{
     position: absolute;
-    top: 460px;left: 220px;
+    top: 280px;left: 80px;
 }
 #eq38{
     position: absolute;
-    top: 580px;left: 220px;
+    top: 340px;left: 80px;
 }
 #eq56{
     position: absolute;
-    top: 700px;left: 220px;
+    top: 400px;left: 80px;
 }
 #eq88{
     position: absolute;
-    top: 820px;left: 220px;
+    top: 460px;left: 80px;
 }
 
 .transicion{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #4931AF;
     -webkit-transition-duration: 0.9s;
 }
@@ -119,14 +139,19 @@ div{
 }
 #eq21{
     position: absolute;
-    top: 460px;left: 340px;
+    top: 280px;left: 140px;
 }
 #eq39{
     position: absolute;
-    top: 580px;left: 340px;
+    top: 340px;left: 140px;
 }
 
 .lantanidos{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #CB3234;
     -webkit-transition-duration: 0.9s;
 }
@@ -137,10 +162,15 @@ div{
 }
 #eq5771{
     position: absolute;
-    top: 700px;left: 340px;
+    top: 400px;left: 140px;
 }
 
 .actinidos{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #FF8000;
     -webkit-transition-duration: 0.9s;
 }
@@ -151,154 +181,159 @@ div{
 }
 #eq89103{
     position: absolute;
-    top: 820px;left: 340px;
+    top: 460px;left: 140px;
 }
 
 #eq22{
     position: absolute;
-    top: 460px;left: 460px;
+    top: 280px;left: 200px;
 }
 #eq40{
     position: absolute;
-    top: 580px;left: 460px;
+    top: 340px;left: 200px;
 }
 #eq72{
     position: absolute;
-    top: 700px;left: 460px;
+    top: 400px;left: 200px;
 }
 #eq104{
     position: absolute;
-    top: 820px;left: 460px;
+    top: 460px;left: 200px;
 }
 #eq23{
     position: absolute;
-    top: 460px;left: 580px;
+    top: 280px;left: 260px;
 }
 #eq41{
     position: absolute;
-    top: 580px;left: 580px;
+    top: 340px;left: 260px;
 }
 #eq73{
     position: absolute;
-    top: 700px;left: 580px;
+    top: 400px;left: 260px;
 }
 #eq105{
     position: absolute;
-    top: 820px;left: 580px;
+    top: 460px;left: 260px;
 }
 #eq24{
     position: absolute;
-    top: 460px;left: 700px;
+    top: 280px;left: 320px;
 }
 #eq42{
     position: absolute;
-    top: 580px;left: 700px;
+    top: 340px;left: 320px;
 }
 #eq74{
     position: absolute;
-    top: 700px;left: 700px;
+    top: 400px;left: 320px;
 }
 #eq106{
     position: absolute;
-    top: 820px;left: 700px;
+    top: 460px;left: 320px;
 }
 #eq25{
     position: absolute;
-    top: 460px;left: 820px;
+    top: 280px;left: 380px;
 }
 #eq43{
     position: absolute;
-    top: 580px;left: 820px;
+    top: 340px;left: 380px;
 }
 #eq75{
     position: absolute;
-    top: 700px;left: 820px;
+    top: 400px;left: 380px;
 }
 #eq107{
     position: absolute;
-    top: 820px;left: 820px;
+    top: 460px;left: 380px;
 }
 #eq26{
     position: absolute;
-    top: 460px;left: 940px;
+    top: 280px;left: 440px;
 }
 #eq44{
     position: absolute;
-    top: 580px;left: 940px;
+    top: 340px;left: 440px;
 }
 #eq76{
     position: absolute;
-    top: 700px;left: 940px;
+    top: 400px;left: 440px;
 }
 #eq108{
     position: absolute;
-    top: 820px;left: 940px;
+    top: 460px;left: 440px;
 }
 #eq27{
     position: absolute;
-    top: 460px;left: 1060px;
+    top: 280px;left: 500px;
 }
 #eq45{
     position: absolute;
-    top: 580px;left: 1060px;
+    top: 340px;left: 500px;
 }
 #eq77{
     position: absolute;
-    top: 700px;left: 1060px;
+    top: 400px;left: 500px;
 }
 #eq109{
     position: absolute;
-    top: 820px;left: 1060px;
+    top: 460px;left: 500px;
 }
 #eq28{
     position: absolute;
-    top: 460px;left: 1180px;
+    top: 280px;left: 560px;
 }
 #eq46{
     position: absolute;
-    top: 580px;left: 1180px;
+    top: 340px;left: 560px;
 }
 #eq78{
     position: absolute;
-    top: 700px;left: 1180px;
+    top: 400px;left: 560px;
 }
 #eq110{
     position: absolute;
-    top: 820px;left: 1180px;
+    top: 460px;left: 560px;
 }
 #eq29{
     position: absolute;
-    top: 460px;left: 1300px;
+    top: 280px;left: 620px;
 }
 #eq47{
     position: absolute;
-    top: 580px;left: 1300px;
+    top: 340px;left: 620px;
 }
 #eq79{
     position: absolute;
-    top: 700px;left: 1300px;
+    top: 400px;left: 620px;
 }
 #eq111{
     position: absolute;
-    top: 820px;left: 1300px;
+    top: 460px;left: 620px;
 }
 #eq30{
     position: absolute;
-    top: 460px;left: 1420px;
+    top: 280px;left: 680px;
 }
 #eq48{
     position: absolute;
-    top: 580px;left: 1420px;
+    top: 340px;left: 680px;
 }
 #eq80{
     position: absolute;
-    top: 700px;left: 1420px;
+    top: 400px;left: 680px;
 }
 #eq112{
     position: absolute;
-    top: 820px;left: 1420px;
+    top: 460px;left: 680px;
 }
 .metaloides{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #00BB2D;
     -webkit-transition-duration: 0.9s;
 }
@@ -309,9 +344,14 @@ div{
 }
 #eq5{
     position: absolute;
-    top: 220px;left: 1540px;
+    top: 160px;left: 740px;
 }
 .metales{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #2D572C;
     -webkit-transition-duration: 0.9s;
 }
@@ -322,22 +362,27 @@ div{
 }
 #eq13{
     position: absolute;
-    top: 340px;left: 1540px;
+    top: 220px;left: 740px;
 }
 #eq31{
     position: absolute;
-    top: 460px;left: 1540px;
+    top: 280px;left: 740px;
 }
 #eq49{
     position: absolute;
-    top: 580px;left: 1540px;
+    top: 340px;left: 740px;
 }
 #eq81{
     position: absolute;
-    top: 700px;left: 1540px;
+    top: 400px;left: 740px;
 }
 
 .desconocidos{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #006666;
     -webkit-transition-duration: 0.9s;
 }
@@ -347,81 +392,86 @@ div{
 }
 #eq113{
     position: absolute;
-    top: 820px;left: 1540px;
+    top: 460px;left: 740px;
 }
 #eq6{
     position: absolute;
-    top: 220px;left: 1660px;
+    top: 160px;left: 800px;
 }
 #eq14{
     position: absolute;
-    top: 340px;left: 1660px;
+    top: 220px;left: 800px;
 }
 #eq32{
     position: absolute;
-    top: 460px;left: 1660px;
+    top: 280px;left: 800px;
 }
 #eq50{
     position: absolute;
-    top: 580px;left: 1660px;
+    top: 340px;left: 800px;
 }
 #eq82{
     position: absolute;
-    top: 700px;left: 1660px;
+    top: 400px;left: 800px;
 }
 #eq114{
     position: absolute;
-    top: 820px;left: 1660px;
+    top: 460px;left: 800px;
 }
 #eq7{
     position: absolute;
-    top: 220px;left: 1780px;
+    top: 160px;left: 860px;
 }
 #eq15{
     position: absolute;
-    top: 340px;left: 1780px;
+    top: 220px;left: 860px;
 }
 #eq33{
     position: absolute;
-    top: 460px;left: 1780px;
+    top: 280px;left: 860px;
 }
 #eq51{
     position: absolute;
-    top: 580px;left: 1780px;
+    top: 340px;left: 860px;
 }
 #eq83{
     position: absolute;
-    top: 700px;left: 1780px;
+    top: 400px;left: 860px;
 }
 #eq115{
     position: absolute;
-    top: 820px;left: 1780px;
+    top: 460px;left: 860px;
 }
 #eq8{
     position: absolute;
-    top: 220px;left: 1900px;
+    top: 160px;left: 920px;
 }
 #eq16{
     position: absolute;
-    top: 340px;left: 1900px;
+    top: 220px;left: 920px;
 }
 #eq34{
     position: absolute;
-    top: 460px;left: 1900px;
+    top: 280px;left: 920px;
 }
 #eq52{
     position: absolute;
-    top: 580px;left: 1900px;
+    top: 340px;left: 920px;
 }
 #eq84{
     position: absolute;
-    top: 700px;left: 1900px;
+    top: 400px;left: 920px;
 }
 #eq116{
     position: absolute;
-    top: 820px;left: 1900px;
+    top: 460px;left: 920px;
 }
 .halogenos{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #109DFA;
     -webkit-transition-duration: 0.9s;
 }
@@ -432,29 +482,34 @@ div{
 }
 #eq9{
     position: absolute;
-    top: 220px;left: 2020px;
+    top: 160px;left: 980px;
 }
 #eq17{
     position: absolute;
-    top: 340px;left: 2020px;
+    top: 220px;left: 980px;
 }
 #eq35{
     position: absolute;
-    top: 460px;left: 2020px;
+    top: 280px;left: 980px;
 }
 #eq53{
     position: absolute;
-    top: 580px;left: 2020px;
+    top: 340px;left: 980px;
 }
 #eq85{
     position: absolute;
-    top: 700px;left: 2020px;
+    top: 400px;left: 980px;
 }
 #eq117{
     position: absolute;
-    top: 820px;left: 2020px;
+    top: 460px;left: 980px;
 }
 .nobles{
+    width: 50px;
+    height: 50px;
+    border: dashed black 2px;
+    text-align: center;
+    border-radius: 5px;
     background: #002392;
     -webkit-transition-duration: 0.9s;
 }
@@ -466,151 +521,151 @@ div{
 
 #eq2{
     position: absolute;
-    top: 100px;left: 2140px;
+    top: 100px;left: 1040px;
 }
 #eq10{
     position: absolute;
-    top: 220px;left: 2140px;
+    top: 160px;left: 1040px;
 }
 #eq18{
     position: absolute;
-    top: 340px;left: 2140px;
+    top: 220px;left: 1040px;
 }
 #eq36{
     position: absolute;
-    top: 460px;left: 2140px;
+    top: 280px;left: 1040px;
 }
 #eq54{
     position: absolute;
-    top: 580px;left: 2140px;
+    top: 340px;left: 1040px;
 }
 #eq86{
     position: absolute;
-    top: 700px;left: 2140px;
+    top: 400px;left: 1040px;
 }
 #eq118{
     position: absolute;
-    top: 820px;left: 2140px;
+    top: 460px;left: 1040px;
 }
 
 #eq57{
     position: absolute;
-    top: 980px;left: 340px;
+    top: 550px;left: 140px;
 }
 #eq58{
     position: absolute;
-    top: 980px;left: 460px;
+    top: 550px;left: 200px;
 }
 #eq59{
     position: absolute;
-    top: 980px;left: 580px;
+    top: 550px;left: 260px;
 }
 #eq60{
     position: absolute;
-    top: 980px;left: 700px;
+    top: 550px;left: 320px;
 }
 #eq61{
     position: absolute;
-    top: 980px;left: 820px;
+    top: 550px;left: 380px;
 }
 #eq62{
     position: absolute;
-    top: 980px;left: 940px;
+    top: 550px;left: 440px;
 }
 #eq63{
     position: absolute;
-    top: 980px;left: 1060px;
+    top: 550px;left: 500px;
 }
 #eq64{
     position: absolute;
-    top: 980px;left: 1180px;
+    top: 550px;left: 560px;
 }
 #eq65{
     position: absolute;
-    top: 980px;left: 1300px;
+    top: 550px;left: 620px;
 }
 #eq66{
     position: absolute;
-    top: 980px;left: 1420px;
+    top: 550px;left: 680px;
 }
 #eq67{
     position: absolute;
-    top: 980px;left: 1540px;
+    top: 550px;left: 740px;
 }
 #eq68{
     position: absolute;
-    top: 980px;left: 1660px;
+    top: 550px;left: 800px;
 }
 #eq69{
     position: absolute;
-    top: 980px;left: 1780px;
+    top: 550px;left: 860px;
 }
 #eq70{
     position: absolute;
-    top: 980px;left: 1900px;
+    top: 550px;left: 920px;
 }
 #eq71{
     position: absolute;
-    top: 980px;left: 2020px;
+    top: 550px;left: 980px;
 }
 
 #eq89{
     position: absolute;
-    top: 1100px;left: 340px;
+    top: 610px;left: 140px;
 }
 #eq90{
     position: absolute;
-    top: 1100px;left: 460px;
+    top: 610px;left: 200px;
 }
 #eq91{
     position: absolute;
-    top: 1100px;left: 580px;
+    top: 610px;left: 260px;
 }
 #eq92{
     position: absolute;
-    top: 1100px;left: 700px;
+    top: 610px;left: 320px;
 }
 #eq93{
     position: absolute;
-    top: 1100px;left: 820px;
+    top: 610px;left: 380px;
 }
 #eq94{
     position: absolute;
-    top: 1100px;left: 940px;
+    top: 610px;left: 440px;
 }
 #eq95{
     position: absolute;
-    top: 1100px;left: 1060px;
+    top: 610px;left: 500px;
 }
 #eq96{
     position: absolute;
-    top: 1100px;left: 1180px;
+    top: 610px;left: 560px;
 }
 #eq97{
     position: absolute;
-    top: 1100px;left: 1300px;
+    top: 610px;left: 620px;
 }
 #eq98{
     position: absolute;
-    top: 1100px;left: 1420px;
+    top: 610px;left: 680px;
 }
 #eq99{
     position: absolute;
-    top: 1100px;left: 1540px;
+    top: 610px;left: 740px;
 }
 #eq100{
     position: absolute;
-    top: 1100px;left: 1660px;
+    top: 610px;left: 800px;
 }
 #eq101{
     position: absolute;
-    top: 1100px;left: 1780px;
+    top: 610px;left: 860px;
 }
 #eq102{
     position: absolute;
-    top: 1100px;left: 1900px;
+    top: 610px;left: 920px;
 }
 #eq103{
     position: absolute;
-    top: 1100px;left: 2020px;
+    top: 610px;left: 980px;
 }
