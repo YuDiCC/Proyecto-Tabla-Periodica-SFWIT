@@ -2,7 +2,8 @@ div{
   width:100%;
   height:100%;
   margin: 5rem;
-  font-family: 'DynaPuff', cursive
+  font-family: 'DynaPuff', cursive;
+  color: #000000;
 }
 
 h1{
@@ -11,9 +12,13 @@ h1{
   font-family: 'Pacifico', cursive;
   background: linear-gradient(#1497be, #1c2aec);
   color: transparent;
-  bcakground-clip: text;
+  background-clip: text;
   -webkit-background-clip: text;
   animation: text 5s linear infinite;
+}
+
+p{
+  font-family: 'DynaPuff', cursive;
 }
 
 @keyframes text{
@@ -64,9 +69,12 @@ h1{
     background: #B5B8B1;
     -webkit-transform: scale(1.2);
 }
+
+
 #eq1{
     position: absolute;
     top: 100px;left:20px;
+    color: #CF010B;
 }
 
 .alcalino{
@@ -77,6 +85,7 @@ h1{
     border-radius: 5px;
     background: #fb2;
     -webkit-transition-duration: 0.9s;
+    
 }
 
 .alcalino:hover{
@@ -224,6 +233,7 @@ h1{
 #eq104{
     position: absolute;
     top: 460px;left: 200px;
+    color: #9C9C9C;
 }
 #eq23{
     position: absolute;
@@ -240,6 +250,7 @@ h1{
 #eq105{
     position: absolute;
     top: 460px;left: 260px;
+    color: #9C9C9C;
 }
 #eq24{
     position: absolute;
@@ -256,6 +267,7 @@ h1{
 #eq106{
     position: absolute;
     top: 460px;left: 320px;
+    color: #9C9C9C;
 }
 #eq25{
     position: absolute;
@@ -272,6 +284,7 @@ h1{
 #eq107{
     position: absolute;
     top: 460px;left: 380px;
+    color: #9C9C9C;
 }
 #eq26{
     position: absolute;
@@ -288,6 +301,7 @@ h1{
 #eq108{
     position: absolute;
     top: 460px;left: 440px;
+    color: #9C9C9C;
 }
 #eq27{
     position: absolute;
@@ -304,6 +318,7 @@ h1{
 #eq109{
     position: absolute;
     top: 460px;left: 500px;
+    color: #9C9C9C;
 }
 #eq28{
     position: absolute;
@@ -320,6 +335,7 @@ h1{
 #eq110{
     position: absolute;
     top: 460px;left: 560px;
+    color: #9C9C9C;
 }
 #eq29{
     position: absolute;
@@ -336,6 +352,7 @@ h1{
 #eq111{
     position: absolute;
     top: 460px;left: 620px;
+    color: #9C9C9C;
 }
 #eq30{
     position: absolute;
@@ -348,10 +365,12 @@ h1{
 #eq80{
     position: absolute;
     top: 400px;left: 680px;
+    color: #0000FF;
 }
 #eq112{
     position: absolute;
     top: 460px;left: 680px;
+    color: #9C9C9C;
 }
 .metaloides{
     width: 50px;
@@ -418,6 +437,7 @@ h1{
 #eq113{
     position: absolute;
     top: 460px;left: 740px;
+    color: #9C9C9C;
 }
 #eq6{
     position: absolute;
@@ -442,10 +462,12 @@ h1{
 #eq114{
     position: absolute;
     top: 460px;left: 800px;
+    color: #9C9C9C;
 }
 #eq7{
     position: absolute;
     top: 160px;left: 860px;
+    color: #CF010B;
 }
 #eq15{
     position: absolute;
@@ -466,10 +488,12 @@ h1{
 #eq115{
     position: absolute;
     top: 460px;left: 860px;
+    color: #9C9C9C;
 }
 #eq8{
     position: absolute;
     top: 160px;left: 920px;
+    color: #CF010B;
 }
 #eq16{
     position: absolute;
@@ -490,6 +514,7 @@ h1{
 #eq116{
     position: absolute;
     top: 460px;left: 920px;
+    color: #9C9C9C;
 }
 .halogenos{
     width: 50px;
@@ -508,14 +533,17 @@ h1{
 #eq9{
     position: absolute;
     top: 160px;left: 980px;
+    color: #CF010B;
 }
 #eq17{
     position: absolute;
     top: 220px;left: 980px;
+    color: #CF010B;
 }
 #eq35{
     position: absolute;
     top: 280px;left: 980px;
+    color: #0000FF;
 }
 #eq53{
     position: absolute;
@@ -528,6 +556,7 @@ h1{
 #eq117{
     position: absolute;
     top: 460px;left: 980px;
+    color: #9C9C9C;
 }
 .nobles{
     width: 50px;
@@ -547,30 +576,37 @@ h1{
 #eq2{
     position: absolute;
     top: 100px;left: 1040px;
+    color: #CF010B;
 }
 #eq10{
     position: absolute;
     top: 160px;left: 1040px;
+    color: #CF010B;
 }
 #eq18{
     position: absolute;
     top: 220px;left: 1040px;
+    color: #CF010B;
 }
 #eq36{
     position: absolute;
     top: 280px;left: 1040px;
+    color: #CF010B;
 }
 #eq54{
     position: absolute;
     top: 340px;left: 1040px;
+    color: #CF010B;
 }
 #eq86{
     position: absolute;
     top: 400px;left: 1040px;
+    color: #CF010B;
 }
 #eq118{
     position: absolute;
     top: 460px;left: 1040px;
+    color: #9C9C9C;
 }
 
 #eq57{
@@ -836,3 +872,20 @@ h1{
     top: 140px;left: 580px;
 }
 /*fin colores de los tipos de elementos*/
+
+.solido{
+    position: absolute;
+    top: 90px;left: 900px; 
+}
+.liquido{
+    position: absolute;
+    top: 110px;left: 900px;  
+}
+.gaseoso{
+    position: absolute;
+    top: 130px;left: 900px; 
+}
+.desconocido{
+    position: absolute;
+    top: 150px;left: 900px; 
+}
