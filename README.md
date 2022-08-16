@@ -31,3 +31,6 @@ A continuación se explicaran la características del proyecto, el diseño, efec
    - Al acercar el curso sobre ella se muestra un efecto de borde en movimiento y un efecto neón al final. https://youtu.be/tOadTZoqjEM
 
 ## Resultado
+
+![tabla_periodica](https://github.com/YuDiCC/Proyecto-Tabla-Periodica-SFWIT/blob/main/Tabla%20Periodica/tabla_periodica.jpg)
+
