@@ -32,7 +32,7 @@ A continuación se explicaran la características del proyecto, el diseño, efec
 
 ## Resultado
 
-Puedes ejecutar el siguiente enlace [Tabla Periodica](https://codepen.io/YuDiCC/pen/OJvEebY) 
+Puedes ejecutar el codigo en el siguiente enlace [Tabla Periodica](https://codepen.io/YuDiCC/pen/OJvEebY) 
 
 ![tabla_periodica](https://github.com/YuDiCC/Proyecto-Tabla-Periodica-SFWIT/blob/main/Tabla%20Periodica/tabla_periodica.jpg)
 
