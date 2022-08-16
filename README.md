@@ -28,4 +28,6 @@ A continuación se explicaran la características del proyecto, el diseño, efec
    
 - Por último, entre el título y los tipos de elementos podemos encontrar un apartado de **_Más Información_**
    - Al hacerle clic en ella nos dirige a una página para saber más acerca de la Tabla Periódica 
-   - Al acercar el curso sobre ella se muestra un efecto de borde en movimiento y un efecto neón al final.
+   - Al acercar el curso sobre ella se muestra un efecto de borde en movimiento y un efecto neón al final. https://youtu.be/tOadTZoqjEM
+
+## Resultado
