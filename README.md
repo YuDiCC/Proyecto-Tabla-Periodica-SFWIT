@@ -13,11 +13,14 @@ Como proyecto para el programa Skills For Women In Tech se eligió desarrollar u
 # Características y uso de la Tabla Periódica
 
 - Comenzando con el título tiene una tipografía diferente al resto de la tabla y se destaca por su diseño único, ya que, esta conformado por un degrado que cambia de color.
+
 - Así mismo, podemos encontrar los diferentes **_tipos de elementos_** las cuales tiene un color en especifico para identificar que elementos químicos la conforman. 
+
 - A un lado de los diferentes tipos de elementos podemos encontrar rn que **_Estado de agregación de la materia_** se encuentra.
 - Luego podemos encontrar a **_cada uno de los elementos químicos_** que conforman a la Tabla periódica con sus respectivos colores, número atómico, masa atómica, símbolo químico y su nombre correspondiente. 
    - Además cuenta con efecto de escala cada vez que colocamos el cursor en ella
    - Al hacerle clic nos dirige a una pagina de Wikipedia para saber más acerca del elemento seleccionado.
+   
 - Por último, entre el título y los tipos de elementos podemos encontrar un apartado de **_Más Información_**
    - Al hacerle clic en ella nos dirige a una página para saber más acerca de la Tabla Periódica 
    - Al acercar el curso sobre ella se muestra un efecto de borde en movimiento y un efecto neón al final.
