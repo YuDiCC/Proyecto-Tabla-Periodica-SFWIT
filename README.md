@@ -8,4 +8,4 @@ La tabla periódica es uno de los ejercicios mas completos. Si eres front puedes
 
 ## Creación del proyecto
 
-Como proyecto para el programa Skills For Women In Tech se eligió desarrollar una **_Tabla Periódica_** entre los diferentes proyectos propuestos, la cual fue creado a través del uso de HTML y CSS. Durante la creación de su diseño se cruzaron diferentes problemáticas, debido a que se usaron diferentes elementos y además de que este cuenta con diferentes elementos químicos. Por estas razones se descartaron varias ideas, sin embargo el resultado final fue satisfactorio.
+Como proyecto para el programa Skills For Women In Tech se eligió desarrollar una **_Tabla Periódica_** entre los diferentes proyectos propuestos, la cual fue creado a través del uso de HTML y CSS. Durante la creación de su diseño se cruzaron diferentes problemáticas, debido a que se usaron diferentes elementos y además de que este cuenta con diferentes elementos químicos. Por estas razones se descartaron varias ideas en el diseño, sin embargo el resultado final fue satisfactorio.
