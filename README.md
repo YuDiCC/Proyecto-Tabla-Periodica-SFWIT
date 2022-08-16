@@ -17,7 +17,7 @@ Este proyecto fue creado en la plataforma de [CODEPEN](https://codepen.io/trendi
 
 A continuación se explicaran la características del proyecto, el diseño, efectos agregado y como funciona, ademas de los links que fueron de utilidad en ello:
 
-- Comenzando con el título tiene una tipografía diferente al resto de la tabla y se destaca por su diseño único, ya que, esta conformado por un degrado que cambia de color.
+- Comenzando con el título tiene una tipografía diferente al resto de la tabla y se destaca por su diseño único, ya que, esta conformado por un degrado que cambia de color. https://youtu.be/SB57-UUozcQ
 
 - Así mismo, podemos encontrar los diferentes **_tipos de elementos_** las cuales tiene un color en especifico para identificar que elementos químicos la conforman. 
 
